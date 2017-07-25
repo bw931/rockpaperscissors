@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+/*<!DOCTYPE html>
 <html>
 
-<script language="javascript">
+<script language="javascript">*/
 
 var userChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();
@@ -51,10 +51,10 @@ compare (userChoice, computerChoice);
 
 
 
-</script>
+/*</script>
 
 
 
 
 
-</html>
+</html>*/
